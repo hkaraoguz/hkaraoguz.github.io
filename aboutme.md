@@ -16,7 +16,8 @@ I am currently working as a Senior Data Scientist at [KnowIT Connectivity](https
 ## Education
 
 * Feb 2009 - Sept 2015: PhD Boğaziçi University, Istanbul-Turkey
-    ### PhD Thesis
+    
+    ***PhD Thesis*** <br>
     *"Autonomous Multi-Robot Topological Spatial Cognition"*, <br>
     Supervisor: Prof. H. Işıl Bozma
 
