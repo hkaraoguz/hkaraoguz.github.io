@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Lessons learned from a Machine Learning deployment
+title: Lessons learned from Machine Learning API deployment
 tags: [machine learning, deployment, production]
 comments: true
 ---
-My article about lessons learned in a machine learning deployment project. (Please use Ctrl+click to open the article)
+My article about lessons learned in a machine learning API deployment project.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6704678109377019904" height="524" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<a href="https://www.linkedin.com/pulse/lessons-learned-from-machine-learning-api-deployment-hakan-karaoguz" target="_blank" rel="noopener noreferrer">
+<img src="../assets/img/ml_lessons.png" alt="Lessons learned from a machine learning deployment project" style="width:512px;height:625px;">
+</a>
