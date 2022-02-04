@@ -16,9 +16,8 @@ author: Hakan Karaoguz
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://hkaraoguz.github.io"
+    - Morning Papers: "https://blog.acolyer.org/"
 
 # --- Logo --- #
 
