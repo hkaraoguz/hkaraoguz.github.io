@@ -6,4 +6,7 @@ comments: true
 ---
 My article about analyzing dataset bias using aif360 library.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6892410467571048448" height="504" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<a href="https://www.linkedin.com/pulse/dataset-bias-analysis-aif360-hakan-karaoguz" target="_blank" rel="noopener noreferrer">
+<img src="../assets/img/dataset_bias.png" alt="Analyzing Dataset bias using aif360 library" style="width:516px;height:630px;">
+</a>
+
