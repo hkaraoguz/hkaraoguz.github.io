@@ -35,7 +35,7 @@ I am currently working as a Senior Data Scientist at [KnowIT Connectivity](https
 
 
 ## Theses Supervised
-* Identification of Agricultural Patterns in Aerial Imagery, Jonathan Linden, MSc Thesis, KTH-KnowIT, 2022
+* Identification of Agricultural Patterns in Aerial Imagery, Jonathan Linden, MSc Thesis, Uppsala University-KnowIT, 2022
 * Vision based indoor object detection for a drone, Linnea Grip, MSc Thesis, KTH, 2017
 * Autonomous Identification of Human Activity Regions, Lin Qi, MSc Thesis, KTH, 2017
 
