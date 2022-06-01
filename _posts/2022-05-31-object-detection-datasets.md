@@ -3,6 +3,7 @@ layout: post
 title: Checklist for Object Detection Datasets
 tags: [object-detection,computer-vision]
 comments: true
+thumbnail-img: /assets/img/object_detection.jpg
 ---
 
 I recently watched a [video](https://youtu.be/40GqhTrMcNA) of [Satya Mallick](https://www.linkedin.com/in/satyamallick/) in which he talks about common problems and mistakes of object detection datasets and how to tackle them. In the video, he particularly focused on object detection task but I think many of his remarks are applicable to other computer vision tasks such as semantic segmentation, classification, etc. 
