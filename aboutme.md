@@ -3,13 +3,15 @@ layout: page
 title: About me
 ---
 
-I am a machine learning expert with hands-on experience in several different fields such as classical machine learning, Computer Vision and NLP. I was involved in several end-to-end machine learning projects that started from the data gathering step and successfully deployed into production. Lately I am focused on building enterprise grade LLM solutions such as Retrieval Augmented Generation (RAG) as a QA system and synthetic data generation using LLMs for text generation. 
+I am a machine learning expert with hands-on experience in several different fields such as classical machine learning, Computer Vision and NLP. I was involved in several end-to-end machine learning projects that started from the data gathering step and successfully deployed into production. Lately I am focused on building and evaluating LLM-based AI agents, including LLM-as-judge evaluation systems with humans in the loop. Before that, I built enterprise grade LLM solutions such as Retrieval Augmented Generation (RAG) as a QA system and synthetic data generation using LLMs for text generation.
 
-I am currently working as a Senior AI Scientist at [SiloAI](https://www.silo.ai). Previously I have worked as ML Engineer at [Zenseact](https://zenseact.com) and Senior Data Scientist at [KnowIT Connectivity](https://www.knowit.se/tjanster/connectivity/). I did my postdoc at [RPL (CVAP)](https://www.kth.se/is/rpl/division-of-robotics-perception-and-learning-1.779439). I received my PhD degree from department of [Electrical and Electronics Engineering](http://www.ee.boun.edu.tr) [Boğaziçi University](http://www.boun.edu.tr) in 2015. During my PhD, I worked at
+I am currently working as an AI Engineer at [Funnel](https://funnel.io). Previously I have worked as Staff ML Engineer at [Aloi AI](https://aloi.law), Senior Member of Technical Staff at [AMD Silo AI](https://www.amd.com/en/solutions/ai/silo-ai.html), ML Engineer at [Zenseact](https://zenseact.com) and Senior Data Scientist at [KnowIT Connectivity](https://www.knowit.se/tjanster/connectivity/). I did my postdoc at [RPL (CVAP)](https://www.kth.se/is/rpl/division-of-robotics-perception-and-learning-1.779439). I received my PhD degree from department of [Electrical and Electronics Engineering](http://www.ee.boun.edu.tr) [Boğaziçi University](http://www.boun.edu.tr) in 2015. During my PhD, I worked at
 [Intelligent Systems Laboratory (ISL)](http://isl.ee.boun.edu.tr) under supervision of [Prof. Işıl Bozma](https://ee.boun.edu.tr/isil-bozma).
 
 ## Work Experience
-* Aug 2023 - Present: Senior AI Scientist at SiloAI, Stockholm-Sweden
+* May 2026 - Present: AI Engineer at Funnel, Stockholm-Sweden
+* May 2025 - May 2026: Staff ML Engineer at Aloi AI, Stockholm-Sweden
+* Aug 2023 - May 2025: Senior AI Scientist / Senior Member of Technical Staff at AMD Silo AI, Stockholm-Sweden
 * Jul 2022 - Jul 2023: ML Research Engineer at Zenseact, Stockholm-Sweden
 * Jan 2019 - Jul 2022: Senior Data Scientist at KnowIT Connectivity, Stockholm-Sweden
 * Oct 2015 - Dec 2018: Postdoctoral Researcher at KTH Royal Institute of Technology, Stockholm-Sweden
