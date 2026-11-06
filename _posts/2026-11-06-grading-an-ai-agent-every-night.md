@@ -181,7 +181,12 @@ Here is an example case that shows why local validation matters:
 
 For now we only get *grading* from the judge. My next focus will be finding a good way of *acting* on nightly findings:
 
-```
-Group similar failures → open one issue per pattern → attach a replay
-  → fix PR → re-judge that group → close the issue on evidence
+```mermaid
+flowchart TB
+    G["🧩 Group similar failures"]
+    I["📝 One issue per pattern<br/>+ attach a replay"]
+    F["🛠️ Fix PR"]
+    J["⚖️ Re-judge that group"]
+    C["✅ Close the issue on evidence"]
+    G --> I --> F --> J --> C
 ```
