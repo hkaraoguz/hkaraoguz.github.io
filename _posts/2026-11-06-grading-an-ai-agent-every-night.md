@@ -169,13 +169,13 @@ Here is an example case that shows why local validation matters:
 
 ## Learnings along the way
 
-- **Start with humans** Without human labels, you have no way to know if the judge is right.
-- **Hide the judge from reviewers** If reviewers see the verdict first, you measure copying, not agreement.
-- **Keep evaluators aligned** If human labelers and the judge read different definitions, you measure the wording, not the agent.
-- **Version the ruler** When the rubric or the judge model changes, old and new numbers are not comparable. Compare like with like.
-- **Vote** One LLM call is a noisy sample: in October, the three votes split 2–1 on 13% of conversations. Three votes cost three judge calls per conversation, and the majority decides each split.
-- **Surface failures** Most of the worst bugs were silent: a blind judge, a biased sample, an empty run that looked like success.
-- **Close the loop** A grade is only useful if it becomes a replay, a fix and a re-check.
+- **Start with humans:** Without human labels, you have no way to know if the judge is right.
+- **Hide the judge from reviewers:** If reviewers see the verdict first, you measure copying, not agreement.
+- **Keep evaluators aligned:** If human labelers and the judge read different definitions, you measure the wording, not the agent.
+- **Version the ruler:** When the rubric or the judge model changes, old and new numbers are not comparable. Compare like with like.
+- **Vote:** One LLM call is a noisy sample: in October, the three votes split 2–1 on 13% of conversations. Three votes cost three judge calls per conversation, and the majority decides each split.
+- **Surface failures:** Most of the worst bugs were silent: a blind judge, a biased sample, an empty run that looked like success.
+- **Close the loop:** A grade is only useful if it becomes a replay, a fix and a re-check.
 
 ## What's next
 
