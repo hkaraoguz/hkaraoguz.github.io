@@ -1,0 +1,15 @@
+/* Site-specific overrides, loaded after the theme CSS (see site-css in _config.yml). */
+
+/* X (formerly Twitter) brand is black; the theme still ships Twitter blue. */
+.btn-twitter,
+.btn-twitter:disabled,
+.btn-twitter.disabled {
+  background-color: #000;
+}
+.btn-twitter:hover,
+.btn-twitter:focus,
+.btn-twitter.focus,
+.btn-twitter:active,
+.btn-twitter.active {
+  background-color: #333;
+}
