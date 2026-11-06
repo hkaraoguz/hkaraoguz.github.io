@@ -13,3 +13,9 @@
 .btn-twitter.active {
   background-color: #333;
 }
+
+/* Center Mermaid diagrams (see assets/js/mermaid-init.js). */
+pre.mermaid svg {
+  display: block;
+  margin: 0 auto;
+}
